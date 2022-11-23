@@ -1,2 +1,3 @@
-# w3fs-sdk
-W3FS SDK
+# W3FS-sdk
+
+Public W3FS-sdk
